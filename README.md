@@ -1,7 +1,6 @@
 # KraxBot for logging
 
 Decided to scrap this bot for my account and make it open source.
-==============
 
 About
 --------------
